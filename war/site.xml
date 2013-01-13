@@ -22,4 +22,12 @@
          Code Trails - More info: http://mchr3k.github.com/codetrails/
       </description>
    </category-def>
+   <feature url="features/com.mountainminds.eclemma.feature_2.2.1.201301131706.jar" id="eclemma.feature" version="2.2.1.201301131706">
+      <category name="eclemma.category"/>
+   </feature>
+   <category-def name="eclemma.category" label="EclEmma">
+      <description>
+         EclEmma - More info: http://mchr3k.github.com/jacoco/
+      </description>
+   </category-def>
 </site>
